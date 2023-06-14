@@ -9,4 +9,4 @@ Ex: go run main.go -w password.lst
 OR
 
 go build main.go
-Ex: ./main.go -w password.lst
+Ex: ./main -w password.lst
