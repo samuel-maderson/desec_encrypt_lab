@@ -8,6 +8,9 @@
 *.so
 *.dylib
 
+# ignore wordlist of john
+password.lst
+
 # Test binary, built with `go test -c`
 *.test
 
